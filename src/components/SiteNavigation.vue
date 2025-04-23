@@ -81,6 +81,3 @@ const toggleModal = () => {
   modalActive.value = !modalActive.value;
 };
 </script>
-
-<style scoped>
-</style>
